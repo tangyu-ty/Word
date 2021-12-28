@@ -19,3 +19,4 @@ print(bag.toarray())
 
 # where映射为编号8  there映射为编号5······
 # 编号也是bag.toarray转换来的ndarray数组的索引
+import
